@@ -19,7 +19,7 @@
   }
 </style>
 
-<h2>Image loading demo</h2>
+<h2>Image Loading Demo</h2>
 
 <p>Scroll to see images fade-in</p>
 
