@@ -21,7 +21,7 @@
 
 <h2>Image Loading Demo</h2>
 
-<p>Scroll to see images fade-in</p>
+<p>Scroll to see images fade-in:</p>
 
 <ul>
   <li><ImageLoader src={`https://picsum.photos/seed/${rand(0,200)}/800/800`} alt="Example image"></ImageLoader></li>
